@@ -1,7 +1,7 @@
 # ExploratoryDataAnalysis_Visualization
-Visually Exploring Dataset PopulationByAgeSex.csv
+Visually Exploring Dataset and Data Analysis with Python
 
-Data analyzing and visualization using Python
+PopulationByAgeSex.csv
 Dataset taken from https://www.kaggle.com/ahmethoso/wpp-population-by-age-and-sex
 
 
